@@ -340,8 +340,8 @@ public class LActivityProxy extends Activity implements ILoadPlugin
 
             try
 			{
-                caller.callOnStop();
-                LCallbackManager.callAllOnStop();
+                caller.callOnStart();
+                LCallbackManager.callAllOnStart();
             }
 			catch (Exception e)
 			{
