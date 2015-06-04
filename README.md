@@ -1,4 +1,4 @@
-[![开源实验室](http://www.kymjs.com/image/logo_s.png)](http://www.kymjs.com/)<h2>Direct-Load-apk(DLA)</h2>
+<h2>Direct-Load-apk(DLA)</h2>
 
 ## Description
 As an Android developer, have you tried to run an **uninstalled APK** ? Have you tried to start an APK **without any constraint** ?  <br>
@@ -7,7 +7,6 @@ DLA is a powerful pluggable framework to implement this function. By use it , yo
 ## Related links
 * QQ Group in China：[362901808](http://jq.qq.com/?_wv=1027&k=SKRiD0);<br>
 * Git@OSC：[ http://git.oschina.net/lody/Direct-load-apk ]<br>
-* Open laboratory's Home page：[http://www.kymjs.com/DLA](http://www.kymjs.com/blog/2015/04/01/DLA.html)
 
 ## Usage
 1、Add **com.lody.plugin.LActivityProxy** tag in your host APP's AndroidManifest.xml.<br>
@@ -43,7 +42,6 @@ What else? No! The use of DLA is so simple.
 ## Future support
 As you can see,  DLA has been able to load the plug-in for Application, Activity and Service, and the other components's support is only a matter of time!
 Another support point is the theme of the skin loading, this is also a target.<br>
-If you have any other requirements, welcome to [Here](http://jq.qq.com/?_wv=1027&k=SKRiD0).<br>
 
 ## Apache License
 
@@ -64,4 +62,4 @@ Copyright 2015, Lody.
 
 ## Author
 **Lody**，an Android developer from ZheJiang NingBo.Willing to make friends, like to share.
-
+My QQ:382816028.
